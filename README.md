@@ -1,4 +1,4 @@
-Meeting Assistant (Web + Server + CLI)
+Meeting Assistant (Web + Server + CLI) Free Version By Ram Nath
 
 Live transcript + AI suggestions every 20 seconds, powered by a Codex Bridge (OpenAI-compatible). Includes a finalize step that produces a concise executive skim.
 
