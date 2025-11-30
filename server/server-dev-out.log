@@ -1,0 +1,140 @@
+[bridge] mode: CLI
+[bridge] runner: node C:\Users\iim_n\meeting-assistant\scripts\bridge-cli.mjs
+server listening on http://localhost:8787
+[session] started 4e4cfb04-c311-4246-ba42-409dd6e5cda1
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=1
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=2
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=3
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=4
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=5
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=6
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=7
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=8
+[sse] connect session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 clients=1
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=9
+[tick] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 sent suggestion (242 chars)
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=10
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=11
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=12
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=13
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=14
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=15
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=16
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=17
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=18
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=19
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=20
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=21
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=22
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=23
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=24
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=25
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=26
+[tick] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 sent suggestion (242 chars)
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=27
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=28
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=29
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=30
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=31
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=32
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=33
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=34
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=35
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=36
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=37
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=38
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=39
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=40
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=41
+[tick] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 sent suggestion (242 chars)
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=42
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=43
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=44
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=45
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=46
+[append] session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 totalSegments=47
+[sse] disconnect session=4e4cfb04-c311-4246-ba42-409dd6e5cda1 clients=0
+[session] started 50490060-cceb-49f3-8a48-160fd428ca25
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=1
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=2
+[sse] connect session=50490060-cceb-49f3-8a48-160fd428ca25 clients=1
+[tick] session=50490060-cceb-49f3-8a48-160fd428ca25 sent suggestion (242 chars)
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=3
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=4
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=5
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=6
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=7
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=8
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=9
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=10
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=11
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=12
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=13
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=14
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=15
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=16
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=17
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=18
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=19
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=20
+[tick] session=50490060-cceb-49f3-8a48-160fd428ca25 sent suggestion (242 chars)
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=21
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=22
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=23
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=24
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=25
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=26
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=27
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=28
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=29
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=30
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=31
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=32
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=33
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=34
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=35
+[tick] session=50490060-cceb-49f3-8a48-160fd428ca25 sent suggestion (242 chars)
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=36
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=37
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=38
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=39
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=40
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=41
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=42
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=43
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=44
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=45
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=46
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=47
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=48
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=49
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=50
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=51
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=52
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=53
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=54
+[tick] session=50490060-cceb-49f3-8a48-160fd428ca25 sent suggestion (242 chars)
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=55
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=56
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=57
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=58
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=59
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=60
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=61
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=62
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=63
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=64
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=65
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=66
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=67
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=68
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=69
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=70
+[tick] session=50490060-cceb-49f3-8a48-160fd428ca25 sent suggestion (242 chars)
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=71
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=72
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=73
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=74
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=75
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=76
+[append] session=50490060-cceb-49f3-8a48-160fd428ca25 totalSegments=77

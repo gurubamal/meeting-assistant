@@ -1,0 +1,6 @@
+[2m8:09:12 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/98f8a2f8-961f-4558-9a92-4968756838c3/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m8:15:13 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/b7edf88a-32e6-4de6-86ea-ac613bd33677/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)

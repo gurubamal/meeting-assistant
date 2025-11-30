@@ -1,0 +1,11 @@
+[tick] error: Error: bridge_runner_exit_1: C:\Users\iim_n\AppData\Roaming\npm\codex.ps1 : Cannot process argument because the value of argument "name" is not 
+valid. Change the value of the "name" argument and run the operation again.
+    + CategoryInfo          : InvalidArgument: (:) [codex.ps1], PSArgumentException
+    + FullyQualifiedErrorId : Argument,codex.ps1
+ 
+failed to read last message: ENOENT: no such file or directory, open 'C:\Users\iim_n\AppData\Local\Temp\codex-out-3r66ee9iues.txt'
+
+    at ChildProcess.<anonymous> (file:///C:/Users/iim_n/meeting-assistant/server/src/index.js:231:23)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)

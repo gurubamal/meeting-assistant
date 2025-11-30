@@ -1,0 +1,21 @@
+[bridge] mode: CLI
+[bridge] runner: node scripts/bridge-cli.mjs
+server listening on http://localhost:8787
+[session] started 39baec08-5080-4077-bc3e-e047657731d6
+[sse] connect session=39baec08-5080-4077-bc3e-e047657731d6 clients=1
+[append] session=39baec08-5080-4077-bc3e-e047657731d6 totalSegments=1
+[append] session=39baec08-5080-4077-bc3e-e047657731d6 totalSegments=2
+[append] session=39baec08-5080-4077-bc3e-e047657731d6 totalSegments=3
+[append] session=39baec08-5080-4077-bc3e-e047657731d6 totalSegments=4
+[sse] disconnect session=39baec08-5080-4077-bc3e-e047657731d6 clients=0
+[session] started 307633ba-b7b1-4383-82a8-1835689bdcb9
+[sse] connect session=307633ba-b7b1-4383-82a8-1835689bdcb9 clients=1
+[sse] disconnect session=307633ba-b7b1-4383-82a8-1835689bdcb9 clients=0
+[session] started 98f8a2f8-961f-4558-9a92-4968756838c3
+[sse] connect session=98f8a2f8-961f-4558-9a92-4968756838c3 clients=1
+[session] started dd3c3cb9-ebaa-4da7-b118-4cd166327b06
+[sse] connect session=dd3c3cb9-ebaa-4da7-b118-4cd166327b06 clients=1
+[sse] disconnect session=dd3c3cb9-ebaa-4da7-b118-4cd166327b06 clients=0
+[session] started 5e0ab251-ebfc-4dca-a3bc-1222f0a15470
+[sse] connect session=5e0ab251-ebfc-4dca-a3bc-1222f0a15470 clients=1
+[sse] disconnect session=5e0ab251-ebfc-4dca-a3bc-1222f0a15470 clients=0

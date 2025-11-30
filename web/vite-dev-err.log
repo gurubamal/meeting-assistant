@@ -1,0 +1,129 @@
+[2m12:52:28 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/50490060-cceb-49f3-8a48-160fd428ca25/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/windows?sizeMs=20000[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/tick[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:02 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:03 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:03 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/windows?sizeMs=20000[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m1:15:04 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/714cc620-59e6-4693-9a38-bb9b7f15e87d/append[39m
+AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m8:12:13 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/f483e8a1-3096-4abc-ab3f-65c1ae8c14c2/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m8:15:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/283bc5aa-ee24-4e6a-a10e-f00106c1399f/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m8:15:55 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/283bc5aa-ee24-4e6a-a10e-f00106c1399f/windows?sizeMs=20000[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m8:17:06 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/8d03e3de-56b9-429a-b67d-77bc0757081a/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m8:26:47 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/6f3a2078-fe49-4d19-bc75-45bf503839b4/stream[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m8:26:49 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/session/6f3a2078-fe49-4d19-bc75-45bf503839b4/windows?sizeMs=20000[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
